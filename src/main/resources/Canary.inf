@@ -1,0 +1,4 @@
+main-class = com.mycompany.minecraft.HelloWorld
+name = HelloWorld
+author = Zilverbullit, My first Minecraft Plugin
+version = 1.0
